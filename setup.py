@@ -9,7 +9,6 @@ setup(
     install_requires=[
         'gym>=0.9.6',
         'numpy>=1.18.5',
-        "torch>=0.4.1",
         'blosc>=1.5.1',
         'gym_minigrid @ https://github.com/maximecb/gym-minigrid/archive/master.zip'
     ],
